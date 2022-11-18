@@ -1,2 +1,7 @@
 .vscode/ # i used vscode for making the code into an actual box
 *.swp # neovim/vim moment
+
+# compiled
+
+box.exe
+box
