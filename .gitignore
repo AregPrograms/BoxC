@@ -1,4 +1,5 @@
 .vscode/ # i used vscode for making the code into an actual box
+c_cpp_properties.json # ^^^ wasnt working
 *.swp # neovim/vim moment
 
 # compiled
