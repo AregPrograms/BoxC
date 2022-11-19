@@ -13,6 +13,10 @@ int main(int argc, char **argv)
         if (argc >= 3)
         {
             y = atoi(argv[2]);
+
+            if (argc >= 4) {
+                border_width = atoi(argv[3]);
+            }
         };
     }
     for (int i = 0; i < y; i++)
